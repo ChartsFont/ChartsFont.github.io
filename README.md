@@ -1,5 +1,5 @@
 # 图表字体
-# 本项目所有字体版权归本人所有，仅用于个人学习交流；未经许可，不得用于任何商业用途！本人QQ：1034769071。
+# 声明：本项目所有字体版权归本人所有，仅用于个人学习交流；未经许可，不得用于任何商业用途！本人QQ：1034769071。
 ## 1.PieChart 使用说明
 
 [**下载 PieChart 字体**](https://coding.net/u/sharemine/p/sharemine.coding.me/git/raw/master/PieChart.ttf)
