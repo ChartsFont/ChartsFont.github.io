@@ -20,8 +20,8 @@
 ## 2.BlockChart 使用说明
 [**下载 BlockChart 字体**](https://coding.net/u/sharemine/p/sharemine.coding.me/git/raw/master/BlockChart.ttf)
 
-使用方法类似 PieChart 字体。
-<pre>字符：0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz①②③④⑤⑥⑦⑧⑨七三上下九二八六十千口土大天太女子山工干平开心才文方无日木四分别对应0%~100%。</pre>
+使用方法类似 PieChart 字体。下列字符分别对应0%~100%。
+<pre>0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz①②③④⑤⑥⑦⑧⑨七三上下九二八六十千口土大天太女子山工干平开心才文方无日木四</pre>
 以下是几个例子：
 
 ![例子](https://raw.githubusercontent.com/ChartsFont/ChartsFont.github.io/master/Blockchart-examples.png)
