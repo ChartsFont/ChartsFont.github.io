@@ -6,7 +6,7 @@
 
 在文档中设置字体为 PieChart，输入字符即可显示对应的饼图，字符与饼图对应表详见下图：
 
-![字符、字形及饼图对照表](https://coding.net/u/sharemine/p/sharemine.coding.me/git/raw/master/PieChart.png)
+![字符、字形及饼图对照表](https://raw.githubusercontent.com/ChartsFont/ChartsFont.github.io/master/PieChart.png)
 
 若要在Excel中以迷你饼图展示百分数，可参考以下公式：
 <pre>=IF(MOD(A1*100,5)=0,MID("A0F1K2P3U4Z5e6j7o8t9y",INT(A1*20)+1,1),MID("BCDEGHIJLMNOQRSTVWXYabcdfghiklmnpqrsuvwx",INT(A1*40)+1,1))</pre>
@@ -22,7 +22,7 @@
 
 使用方法类似 PieChart 字体，以下是几个实例：
 
-![例子](https://coding.net/u/sharemine/p/sharemine.coding.me/git/raw/master/Blockchart-examples.png)
+![例子](https://raw.githubusercontent.com/ChartsFont/ChartsFont.github.io/master/Blockchart-examples.png)
 
 若要在 Excel 中以方块堆积图展示百分数，可参考以下公式：
 <pre>=MID("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz①②③④⑤⑥⑦⑧⑨七三上下九二八六十千口土大天太女子山工干平开心才文方无日木四",INT(A1*100)+1,1)</pre>
