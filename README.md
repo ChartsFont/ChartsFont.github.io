@@ -20,10 +20,12 @@
 ## 2.BlockChart 使用说明
 [**下载 BlockChart 字体**](https://coding.net/u/sharemine/p/sharemine.coding.me/git/raw/master/BlockChart.ttf)
 
-使用方法类似 PieChart 字体，以下是几个实例：
+使用方法类似 PieChart 字体。
+<pre>字符：0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz①②③④⑤⑥⑦⑧⑨七三上下九二八六十千口土大天太女子山工干平开心才文方无日木四分别对应0%~100%。</pre>
+以下是几个例子：
 
 ![例子](https://raw.githubusercontent.com/ChartsFont/ChartsFont.github.io/master/Blockchart-examples.png)
 
 若要在 Excel 中以方块堆积图展示百分数，可参考以下公式：
 <pre>=MID("0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz①②③④⑤⑥⑦⑧⑨七三上下九二八六十千口土大天太女子山工干平开心才文方无日木四",INT(A1*100)+1,1)</pre>
-注：公式中的A1单元格是一个百分比数值，可在单元格B1中输入上述公式，此时单元格B2需设置字体为 BlockChart，字体大小设置150以上，显示效果较好。
+注：公式中的A1单元格是一个百分比数值，可在单元格B1中输入上述公式，此时单元格B1需设置字体为 BlockChart，字体大小设置150以上，显示效果较好。
